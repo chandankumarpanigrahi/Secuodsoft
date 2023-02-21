@@ -1,0 +1,529 @@
+body{
+	background-image: url(./bg.png);
+}
+.auditorium-booking-system{
+	float: left;
+	width: 27%;
+	height: auto;
+}
+.auditorium-management{
+	float: right;
+    width:73%;
+    padding-right: 15px;
+    padding-left: 14px;
+}
+.auditorium-booking-system-panel{
+	padding: 10px;
+	margin: 30px 10px 20px 20px;
+	background-color: #E4EAD0;
+	border-radius: 12px 12px 0 0;
+	height: 800px;
+}
+.list-group{
+	margin-left: 30px;
+}
+.auditorium-list-items{
+	font-size: 12px;
+	margin: 5px 0 0 5px;
+}
+.update-button-pos{
+	margin-right: 40%;
+	margin-left: 40%;
+}
+.list-item-green{
+	color: green;
+}
+.popup-head{
+	background-color: #C6CCB3;
+	border-radius: 5px 5px 0 0;
+	margin: 15px;
+}
+.close-btn{
+	background-color: white;
+	border-radius: 80px 80px 80px 80px;
+	padding: 5px 6px 0px 0;
+}
+.list-items-bullet{
+	margin: 0 1px 0 2px;
+}
+.booking-list{
+	height: 76%;
+}
+.ticket-icon,.techmeter{
+	color: #01AD5F;
+}
+.listspace{
+	padding-left: 5px;
+}
+.admin{
+  -webkit-border-radius: 25;
+  -moz-border-radius: 25;
+  border-radius: 25px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 10px;
+  background: #ffffff;
+  padding: 5px 20px 5px 20px;
+  border: solid #fff 1px;
+  text-decoration: none;
+}
+.dashboard-header{
+	margin-top: 20px;
+}
+.booking-system-logo{
+	float: left;
+	width: 30%;
+}
+.booking-system-title{
+	float: right;
+	width: 70%;
+	padding-left: 2px;
+}
+.auditorium-booking-system-title{
+	margin-top: 2%;
+}
+.Gov{
+	font-size: 10px;
+}
+.img1{
+	width: 98%;
+	height: 98%;
+}
+.listicon{
+	margin: 10px;
+	padding: 6px 3px 3px 7px;
+	box-shadow: 2px 8px 10px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+}
+.complete-button-adjustment{
+	padding: 70px 90px 0 90px;
+}
+.complete-button-adjustment:hover{
+	padding: 68px 88px 2px 88px;
+}
+.complete-button-color{
+	color: white;
+}
+.span1{
+	float: right;
+	padding-right: 20px;
+}
+.Search-box{
+	height: 25px;
+}
+.span1:hover{
+	float: right;
+	padding-right: 22px;
+	font-size: 105%;
+}
+.logout-icon{
+	width: 19%;
+	color: #00C069;
+}
+.viewall{
+	border-radius: 10px;
+	color: red;
+}
+.viewbutton{
+	float: right;
+}
+.viewbutton1{
+	float: left;
+	width: 70%;
+}
+.viewname{
+	margin: 20px 0 0 15px;
+}
+.divlist{
+	background-color: white;
+	margin: 18px 10px;
+	border-radius: 10px;
+	padding: 5px 4px 5px 5px;
+	background-color: #F3F5EC;
+	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.01);
+	font-weight: 510;
+}
+.clearu{
+	text-decoration: none;
+	color: black;
+}
+.divlist-dashboard{
+	background-color: #EAF5E4;
+	margin-top: 80px;
+}
+.detail-row-one{
+	font-size: 12px;
+	color: #83B551;
+}
+.detail-row-two{
+	font-size: 11px;
+	color: black;
+	font-weight: normal;
+}
+.detail-row-three{
+	font-size: 10px;
+	color: black;
+	font-weight: normal;
+}
+.refund-detail-col{
+	font-size: 9px;
+	color: black;
+	font-weight: normal;
+}
+.refund-detail-align{
+	padding: 3px 0;
+}
+.redcol{
+	color: red;
+	font-weight: bold;
+}
+.divlogo{
+	width: 6%;
+	margin-left: 2px;
+	margin-bottom: 3px;
+}
+.tabular{
+	padding-left: 10px;
+}
+.pending1{
+	color: orange;
+}
+.refund-detail-row{
+	margin: 0 0 12px 0;
+}
+.web-path{
+	padding: 40px 0 0 5px;
+}
+.counting{
+	background-image: url(./img1.png);
+	background-size: 100%;
+	border-radius: 25px;
+	margin-right: 13px;
+	margin-left: 11px;
+	color: white;
+	height: 260px;
+	background-repeat: no-repeat;
+}
+.manage-mandap-forms{
+	font-size: 10px;
+}
+.counting-table{
+	padding: 5.5% 0 0 1%;
+}
+.transaction-id-row{
+	padding: 12px 0 16px 0;
+}
+.counting-row{
+	padding-top: 43px;
+}
+.counting-row-text{
+	font-weight: 200;
+	font-size: 120%;
+}
+.counting-row-counts{
+	font-family: "SkySerifW01-Bold"; 
+}
+.transaction-id-col{
+	margin-left: 15px;
+}
+.transaction-id{
+	font-size: 10px;
+	color: green;
+	font-weight: normal;
+}
+.greenbold{
+	color: green;
+	font-weight: bold;
+}
+.transaction-id-details{
+	font-size: 10px;
+}
+.utkal-mandap{
+	padding-top: 17px;
+}
+.view-button{
+	-webkit-border-radius: 25;
+  	-moz-border-radius: 25;
+  	border-radius: 25px;
+  	font-family: Arial;
+  	color: #fa0000;
+  	font-size: 10px;
+  	background: #ffffff;
+  	border: solid #000000 1px;
+  	text-decoration: none;
+  	float: right;
+  	border-color: #FFFFFF;
+  	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+.view-booking{
+  margin-top: 10%;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+.logoutlink{
+	text-decoration: none;
+	color: black;
+	font-size: 1em;
+	font-weight: bold;
+}
+.details-info{
+	padding: 20px;
+	background-color: #F8FFE5;
+	border-radius: 5px;
+	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+.details-info-result{
+	padding: 20px;
+	background-color: #FCFFF3;
+	border-radius: 5px;
+	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+	font-size: 15px;
+}
+.mandap-booking-status{
+	text-align: center;
+}
+.edit-icon{
+	background-color: #c5cfa4;
+	width: 25px;
+	height: 25px;
+	padding: 5px;
+	border-radius: 4px;
+}
+.mandap-booking-rows{
+	padding: 5px 0 5px 0;
+}
+.page-num-left{
+	text-align: left;
+	padding-top: 15px;
+}
+.page-num-right{
+	text-align: right;
+	padding: 15px 0 0 0 ;
+}
+.page-num{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+.pagination > li > a,
+.pagination > li > span {
+    color: #a5ab93;
+}
+.pagination > .active > a,
+.pagination > .active > a:focus,
+.pagination > .active > a:hover,
+.pagination > .active > span,
+.pagination > .active > span:focus,
+.pagination > .active > span:hover {
+    background-color: #a5ab93;
+    border-color: #a5ab93;
+}
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover {
+    z-index: 3;
+    color: White;
+    background-color: #a5ab93;
+    border-color: #red;
+}
+.viewbtnn{
+	margin-right: 3%;
+	margin-top: 2px;
+}
+.detailsplace{
+	padding: 5px 0 0 0;
+}
+.hrline{
+	margin: 5px 5px;
+}
+.pending-row{
+	margin: 0px 0 0px 0;
+}
+.booking-detail-row{
+	margin: 0 0 20px 0;
+	padding-top: 2px;
+}
+.boxitem{
+	padding: 3px 0 2px 5px;
+}
+.jan{
+	border-radius: 5px;
+	text-align: center;
+	font-weight: bold;
+}
+.jan-col-yellow{
+	margin: 10px 0 10px 0;
+}
+.jan-box-yellow{
+	background-color: #E7B30C;
+	color: white;
+	padding: 5px 0 5px 0;
+}
+.jan-col-red{
+	margin: 10px 0 10px 0;
+}
+.jan-box-red{
+	background-color: #FC6B57;
+	color: white;
+	padding: 5px 0 5px 0;
+}
+.jan-col-green{
+	margin: 10px 0 10px 0;
+}
+.jan-box-green{
+	background-color: #85BF4B;
+	color: white;
+	padding: 5px 0 5px 0;
+}
+.jan2023{
+	text-align: center;
+	font-size: 25px;
+}
+
+.logo{
+	width: 105%;
+}
+
+table {
+  	width: 100%;
+}
+.calender-border{
+	box-shadow: -4px -4px 109px -35px rgba(117,117,117,0.25);
+	padding-top: 15px;
+}
+.calender-day {
+  	border: 1px solid #B1B1B1;
+  	border-collapse: collapse;
+  	width: 14.28%;
+  	text-align: center;
+}
+
+.calender-date{
+	border: 1px solid #B1B1B1;
+  	border-collapse: collapse;
+  	width: 14.28%;
+  	height: 110px;
+  	color: #0697DF;
+  	font-weight: bold;
+  	vertical-align: top;
+  	text-align: right;
+}
+.bookeddiv{
+	align-items: center;
+	padding-left: 0px;
+}
+.booked{
+	background-color: #E39939;
+	color: white;
+	border-radius: 15px;
+	vertical-align:;
+  	text-align: center;
+  	width: 100%;
+}
+.bookedid{
+	background-color: #DC6162;
+}
+
+.am10{
+	font-size: 12px;
+}
+.next-calender-date{
+	color: #D0CECE;
+}
+.calender-date-event{
+  	width: 100%;
+  	height: 50px;
+  	color: #0697DF;
+  	font-weight: bold;
+  	vertical-align: top;
+  	text-align: right;
+}
+.calender-view-type{
+	float: right;
+}
+.user-details{
+	background-color: #E2E5DB;
+	border-radius: 13px;
+	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+	width: 97%;
+}
+.menicon{
+	margin: 5% 30% 5% 35%;
+	width: 80px;
+	height: 80px;
+}
+.manish{
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+}
+.adminbutton{
+	margin: 5% 0 5% 20%;
+}
+.complete-button{
+	background: #5afa77;
+  	background-image: -webkit-linear-gradient(top, #5afa77, #499e44);
+  	background-image: -moz-linear-gradient(top, #5afa77, #499e44);
+  	background-image: -ms-linear-gradient(top, #5afa77, #499e44);
+  	background-image: -o-linear-gradient(top, #5afa77, #499e44);
+  	background-image: linear-gradient(to bottom, #5afa77, #499e44);
+  	-webkit-border-radius: 25;
+  	-moz-border-radius: 25;
+  	border-radius: 11px;
+  	font-family: Arial;
+  	color: #ffffff;
+  	font-size: 11px;
+  	padding: 8px 0px 8px 17px;
+  	text-decoration: none;
+  	border: 0;
+  	float: right;
+  	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+.pending-button{
+	background: #E9A143;
+  	-webkit-border-radius: 25;
+  	-moz-border-radius: 25;
+  	border-radius: 11px;
+  	font-family: Arial;
+  	color: #ffffff;
+  	font-size: 11px;
+  	padding: 8px 23px 8px 23px;
+  	text-decoration: none;
+  	border: 0;
+  	float: right;
+  	margin: 10px 0 0 0;	
+  	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+.user567{
+	font-size: 11px;
+	text-align: center;
+}
+.pagination {
+  display: inline-block;
+  float: right;
+}
+
+.pagination a {
+  color: black;
+  float: right;
+  padding: 4px 10px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #C3CCA4;
+  font-size: 12px;
+}
+
+.pagination a.active {
+  background-color: #C3CCA4;
+  color: white;
+  border: 1px solid #C3CCA4;
+}
+.pagination a:hover {
+  color: white;
+	background-color: #C3CCA4;
+  font-weight: bold;
+}
+.pagination a.active:hover {
+  background-color: white;
+  color: #C3CCA4;
+  font-weight: bold;
+}
