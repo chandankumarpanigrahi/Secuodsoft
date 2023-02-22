@@ -1,0 +1,87 @@
+#ctr{
+	text-align: center;
+}
+
+.linksuccess{
+	font-size: 13px;
+	color: green;
+}
+
+.forgetpass{
+	font-size: 12px;
+	padding-left: 55%;
+}
+.fbtn{
+	text-decoration: none;
+	color: green;
+}
+
+body{
+	background: rgb(125,200,159);
+	background: linear-gradient(200deg, rgba(125,200,159,1) 4%, rgba(107,147,125,1) 69%, rgba(31,36,34,1) 100%);
+	background-repeat: no-repeat;
+	padding-right: 40px;
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
+.leftside{
+	width: 55%;
+	color: #ffffff;
+	padding: 30px 5px 10px 30px;
+	border: 10px;
+}
+
+#rightside{
+	background-color: white;
+	padding: 30px 10px 10px 5px;
+	border-radius: 20px;
+	border: 20px;
+}
+
+tr{
+	padding: 30px 10px 10px;
+}
+
+.logo_gov{
+	width: 110px;
+}
+
+#loginbtn{
+	width: 100%;
+	padding: 2px;
+	height: 40px;
+	border-radius: 15px;
+}
+
+#ollcd{
+	font-family: 'Aksana', sans-serif;
+}
+
+form{
+	padding: 10px 30px 5px 30px;
+}
+
+#fps{
+	font-size: 10px;
+	align-items: right;
+}
+
+.finalbtn{
+	text-decoration: none;
+	color: white;
+}
+
+.lastinput{
+	width: 59%;
+	border-radius: 5px;
+}
+
+.lastlogin{
+	text-decoration: none;
+	color: white;
+}
+
+.threeimg{
+	width: 32%;
+	border-radius: 10px;
+
