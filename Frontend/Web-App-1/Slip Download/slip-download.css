@@ -1,0 +1,56 @@
+.nav-bar-bg{
+	background-color: #323639;
+}
+.menuicon{
+	padding: 10px;
+	width: 40px;
+}
+.blank{
+	height: 20px;
+}
+.blank-white{
+	height: 1px;
+}
+.blank-bg-dark{
+	background-color: #525659;
+}
+.last-icons span{
+	padding: 10px 10px 0 10px;
+	margin: 2px;
+}
+.dropbtn {
+  background-color: #323639;
+  color: white;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #323639;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 10px 12px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #202224;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #202224;}
+
+.centred-text{
+	text-align: center;
+}
